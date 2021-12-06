@@ -11,7 +11,7 @@ Days solved:
 |Day  3|:white_check_mark:|:white_check_mark:|
 |Day  4|:white_check_mark:|:white_check_mark:|
 |Day  5|:white_check_mark:|:white_check_mark:|
-|Day  6|:white_large_square:|:white_large_square:|
+|Day  6|:white_check_mark:|:white_check_mark:|
 |Day  7|:white_large_square:|:white_large_square:|
 |Day  8|:white_large_square:|:white_large_square:|
 |Day  9|:white_large_square:|:white_large_square:|
